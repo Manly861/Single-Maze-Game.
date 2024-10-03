@@ -1,0 +1,54 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "Single Maze Game.",
+  "resources": [
+    {"id":{"name":"Spr_coins","path":"sprites/Spr_coins/Spr_coins.yy",},"order":2,},
+    {"id":{"name":"obj_points","path":"objects/obj_points/obj_points.yy",},"order":5,},
+    {"id":{"name":"pth_enemy_room1","path":"paths/pth_enemy_room1/pth_enemy_room1.yy",},"order":7,},
+    {"id":{"name":"Obj_enemy","path":"objects/Obj_enemy/Obj_enemy.yy",},"order":6,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":3,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":2,},
+    {"id":{"name":"Spr_enemey","path":"sprites/Spr_enemey/Spr_enemey.yy",},"order":3,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
+    {"id":{"name":"wall","path":"objects/wall/wall.yy",},"order":4,},
+    {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"PlayStation 4","path":"options/ps4/options_ps4.yy",},
+    {"name":"PlayStation 5","path":"options/ps5/options_ps5.yy",},
+    {"name":"Switch","path":"options/switch/options_switch.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"Xbox Series XS","path":"options/xboxseriesxs/options_xboxseriesxs.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
+  ],
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.9.1.51",
+  },
+}
