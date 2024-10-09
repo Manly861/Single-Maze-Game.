@@ -6,10 +6,10 @@ if(health <= 0) {
 	lives -=1;
 	//reset health
 	health =100;
-}
+};
 
 
 //run out of lives
 if ( lives <=0) {
 game_restart()
-}
+};
